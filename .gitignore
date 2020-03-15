@@ -1,0 +1,12 @@
+/.env
+/composer.lock
+/phpunit.xml.dist
+
+.phpunit
+/phpunit.xml
+
+.idea
+###> symfony/webpack-encore-bundle ###
+/node_modules/
+npm-debug.log
+yarn-error.log
